@@ -56,16 +56,13 @@ export function Navbar(){
                     >
                         <ul className="items-center justify-center space-y-8 md:flex md:space-x-6 md:space-y-0">
                             <li className="text-gray-600 hover:text-blue-600">
-                                <a href="javascript:void(0)"><input type="text" placeholder="Search"/></a>
+                                <a href="javascript:void(0)"><input type="text" placeholder="Search for data,users,doc"/></a>
                             </li>
                             <li className="text-gray-600 hover:text-blue-600">
-                                <a href="javascript:void(0)">Blog</a>
+                                <a href="javascript:void(0)">About</a>
                             </li>
                             <li className="text-gray-600 hover:text-blue-600">
-                                <a href="javascript:void(0)">About US</a>
-                            </li>
-                            <li className="text-gray-600 hover:text-blue-600">
-                                <a href="javascript:void(0)">Contact US</a>
+                                <a href="javascript:void(0)">Contact</a>
                             </li>
                         </ul>
                     </div>
